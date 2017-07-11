@@ -101,7 +101,6 @@ export default class ListWithOther extends Component {
   }
 
   renderRowTwo=(rowData) => {
-    console.log(rowData);
     return (
       <View>
         <Text>你的名字</Text>
